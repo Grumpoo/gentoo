@@ -1,8 +1,7 @@
 # Gentoo
 My current Gentoo settings and other shenanigans.
 
---- PACKAGE.USE ---
-
+## PACKAGE.USE
 sys-kernel/installkernel grub dracut
 app-admin/doas persist
 x11-base/xorg-server -suid
@@ -13,13 +12,11 @@ dev-qt/qtmultimedia qml
 dev-qt/qt5compat qml
 
 
---- PACKAGE.ACCEPT_KEYWORDS ---
-
+## PACKAGE.ACCEPT_KEYWORDS
 sys-kernel/gentoo-sources ~amd64
 
 
---- CUSTOM OVERLAYS (with eselect-repository) ---
-
+## CUSTOM OVERLAYS (with eselect-repository)
 [136] gentoo
 [155] guru
 [252] nymphos
@@ -27,8 +24,7 @@ sys-kernel/gentoo-sources ~amd64
 [351] steam-overlay
 [369] tastytea
 
---- GENTOO SPECIFIC SETUP ---
-
+## GENTOO SPECIFIC SETUP
 USE flags: https://www.gentoo.org/support/use-flags/?style
 Package List: https://packages.gentoo.org/categoriesc
 
