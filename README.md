@@ -6,7 +6,7 @@ My current Gentoo settings and other shenanigans.
 sys-kernel/installkernel grub dracut
 app-admin/doas persist
 x11-base/xorg-server -suid
-media-video/pipewire soundserver pipewire-alsa
+media-video/pipewire sound-server pipewire-alsa
 x11-misc/dunst dunstify
 x11-misc/polybar alsa doc ipc mpd network pulseaudio
 dev-qt/qtmultimedia qml
