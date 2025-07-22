@@ -37,6 +37,7 @@ AMDGPU: https://wiki.gentoo.org/wiki/AMDGPU
 Hardware Acceleration: https://wiki.gentoo.org/wiki/Xorg/Hardware_3D_acceleration_guide
 X.org: https://wiki.gentoo.org/wiki/Xorg
 Non-root X.org: https://wiki.gentoo.org/wiki/Non_root_Xorg
+PipeWire: https://wiki.gentoo.org/wiki/PipeWire
 
 Steam: https://wiki.gentoo.org/wiki/Steam
 
