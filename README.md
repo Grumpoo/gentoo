@@ -38,6 +38,7 @@ Hardware Acceleration: https://wiki.gentoo.org/wiki/Xorg/Hardware_3D_acceleratio
 X.org: https://wiki.gentoo.org/wiki/Xorg
 Non-root X.org: https://wiki.gentoo.org/wiki/Non_root_Xorg
 PipeWire: https://wiki.gentoo.org/wiki/PipeWire
+Wayland: https://wiki.gentoo.org/wiki/Wayland
 
 Steam: https://wiki.gentoo.org/wiki/Steam
 
